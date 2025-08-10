@@ -32,3 +32,4 @@ optimization process, with a particular focus on:
 
 
 **All project details are described in report.pdf**
+**Presentation deck in presentation_deck.pdf**
