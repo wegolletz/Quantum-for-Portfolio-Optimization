@@ -3,7 +3,7 @@
 **Team name**: PortfoQ
 
 **Members**:
-- Czcibor Ciostek, WISER Enrollment ID:
+- Czcibor Ciostek, WISER Enrollment ID: gst-gzfvWcg4u1SdUnN
 - Weronika Golletz, WISER Enrollment ID: gst-8Mu81qj8JuZZzcZ
 
 **Project Summary**:
