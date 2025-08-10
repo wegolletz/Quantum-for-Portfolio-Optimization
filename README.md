@@ -7,3 +7,7 @@
 - Weronika Golletz, WISER Enrollment ID: gst-8Mu81qj8JuZZzcZ
 
 **Project Summary**:
+
+
+
+All project details are described in report.pdf
